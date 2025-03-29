@@ -1,4 +1,4 @@
-//Trabalho de Bryan Strey, Matheus Braschi Haliski, Victor Luís e 
+//Trabalho de Bryan Strey, Matheus Braschi Haliski, Victor Luís e Stephanny Almeida Lopes de Araújo
 
 import Foundation
 
