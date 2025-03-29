@@ -1,3 +1,5 @@
+//Trabalho de Bryan Strey, Matheus Braschi Haliski, Victor Luís e 
+
 import Foundation
 
 // Enum de Prioridade
